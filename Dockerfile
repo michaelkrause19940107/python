@@ -1,2 +1,2 @@
 FROM python:3.10
-RUN pip install pandas, pygame, sys
+RUN pip install pygame
